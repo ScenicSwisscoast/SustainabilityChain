@@ -6,4 +6,6 @@ download startSustainabiltyChain.sh using
 
 run it typing
 > chmod u+x ./files/start.sh
+
+then
 > sudo ./files/start.sh
