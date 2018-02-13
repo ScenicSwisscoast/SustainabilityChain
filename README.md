@@ -5,7 +5,6 @@ download startSustainabiltyChain.sh using
 > git clone git://github.com/PoriniFoundation/SustainabilityChain/
 
 run it typing
-> chmod u+x ./files/start.sh
-
-then
-> sudo ./files/start.sh
+>cd SustainabilityChain 
+>chmod u+x .start.sh
+>sudo ./start.sh
