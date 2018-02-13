@@ -2,7 +2,7 @@
 
 download startSustainabiltyChain.sh using
 
-> git clone git://github.com/PoriniFoundation/SustainabilityChain/files/start.sh
+> git clone git://github.com/PoriniFoundation/SustainabilityChain/
 
 run it typing
 > chmod u+x ./files/start.sh
