@@ -2,7 +2,7 @@ sudo apt install unzip &&
 wget -O MEWV3.zip https://github.com/kvhnuke/etherwallet/archive/v3.11.3.2.zip?raw=true &&
 unzip MEWV3.zip -d . &&
 sudo apt-get update &&
-sudo apt-get install software-properties-common &&
+sudo apt-get install software-properties-common -y &&
 sudo add-apt-repository -y ppa:ethereum/ethereum &&
 sudo apt-get update &&
 sudo apt-get install -y ethereum &&
